@@ -1,0 +1,3 @@
+http://api.springernature.com/meta/v2/pam?q=(("chat bot" OR "conversational agent" OR chatbot OR "dialogue agent" ) AND ( "design theory" OR "design science" OR "design principles" OR "designing"))&p=100&s=13761&api_key=9b3e17097300d9deffc13868c39f03eb
+
+'http://api.springernature.com/meta/v2/pam?q=({query})&p=100&s={1}&api_key={key}'
